@@ -2,47 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e651b25-f6c1-494a-a05c-7e4e4dd8af43" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_30.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/AcceptInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/DaemonThreadFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/DefaultDispatcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/Dispatcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/JBalanceCallback.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/PortRedirectHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/RequestInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/StreamException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/StreamPipe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/Task.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/jbalance.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/org/github/jbalance/JavaThreadPoolTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/org/github/jbalance/LiteThreadPoolTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/org/github/jbalance/StreamPipeTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/log4j2-test.xml" />
-      <change type="DELETED" beforePath="F:\work\JBalance\src\main\java\org\github\jbalance\DefaultHandler.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/AcceptPolicy.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JBalance.iml" afterPath="$PROJECT_DIR$/JBalance.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/github/jbalance/DefaultDispatcher.java" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/DefaultDispatcher.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/github/jbalance/DefaultListener.java" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/DefaultListener.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/github/jbalance/Handler.java" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/Handler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/github/jbalance/JBalanceMain.java" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/JBalanceMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/github/jbalance/Dispatcher.java" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/Dispatcher.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/github/jbalance/JBalanceRunner.java" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/JBalanceRunner.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/github/jbalance/JavaThreadPool.java" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/JavaThreadPool.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/github/jbalance/Listener.java" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/Listener.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/github/jbalance/LiteThreadPool.java" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/LiteThreadPool.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/github/jbalance/ThreadPool.java" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/ThreadPool.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/github/jbalance/Utils.java" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/Utils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/github/jbalance/jbalance-message.properties" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/jbalance-message.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/github/jbalance/jbalance.properties" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/jbalance.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/github/jbalance/jbalance.config.js" afterPath="$PROJECT_DIR$/src/main/java/org/github/jbalance/jbalance.config.js" />
     </list>
     <ignored path="JBalance.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -114,31 +81,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StreamPipe.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/StreamPipe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="66" selection-start="1295" selection-end="1295" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jbalance.config.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="jbalance.config.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/jbalance.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="36" column="71" selection-start="744" selection-end="744" vertical-scroll-proportion="0.7037037">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JBalanceMain.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="JBalanceRunner.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/JBalanceRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="53" selection-start="832" selection-end="832" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Listener.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/Listener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="15" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AcceptPolicy.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/AcceptPolicy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="34" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultListener.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/DefaultListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="86" selection-start="1983" selection-end="1983" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jbalance.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/jbalance.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JBalanceMain.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/JBalanceMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="132" column="51" selection-start="5398" selection-end="5398" vertical-scroll-proportion="4.57772">
+            <state line="7" column="25" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InetSocketAddress.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://D:/tools/dev/lang/java/jdk1.7.0_09/src.zip!/java/net/InetSocketAddress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="214" column="23" selection-start="6836" selection-end="6836" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#10624#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -172,21 +185,21 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/org/github/jbalance/LiteThreadPoolTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/github/jbalance/JavaThreadPoolTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/github/jbalance/LiteThreadPool.java" />
         <option value="$PROJECT_DIR$/src/test/resources/log4j2-test.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/org/github/jbalance/DefaultListener.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/github/jbalance/DefaultHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/github/jbalance/DefaultDispatcher.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/github/jbalance/Handler.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/github/jbalance/Utils.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/github/jbalance/StreamException.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/github/jbalance/StreamPipe.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/github/jbalance/StreamPipeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/github/jbalance/PortRedirectHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/github/jbalance/DefaultListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/github/jbalance/JBalanceRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/github/jbalance/AcceptPolicy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/github/jbalance/DefaultDispatcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/github/jbalance/Listener.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/github/jbalance/jbalance.config.js" />
       </list>
     </option>
@@ -454,9 +467,9 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -613,17 +626,6 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
       <module name="" />
       <setting name="path" value="" />
@@ -631,6 +633,17 @@
       <setting name="params" value="" />
       <setting name="workDir" value="" />
       <setting name="debug" value="false" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
@@ -655,24 +668,6 @@
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
@@ -702,6 +697,24 @@
       <envs />
       <properties />
       <listeners />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
@@ -794,7 +807,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.7687296" order="10" side_tool="false" content_ui="tabs" />
@@ -812,18 +825,18 @@
       <window_info id="Code Graph" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.7687296" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.7687296" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.7687296" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24918832" sideWeight="0.6710098" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32899022" sideWeight="0.4935065" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.4935065" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Graphical Navigator" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -886,110 +899,93 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/JavaThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="33" selection-start="709" selection-end="709" vertical-scroll-proportion="0.541555" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/Dispatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="9" selection-start="174" selection-end="174" vertical-scroll-proportion="0.3316062" />
-      </provider>
-    </entry>
-    <entry file="jar://D:/tools/dev/lang/java/jdk1.7.0_09/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="237" column="45" selection-start="10008" selection-end="10008" vertical-scroll-proportion="1.9753087" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/DefaultListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="32" selection-start="1683" selection-end="1683" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/StreamException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="56" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/tools/dev/lang/java/jdk1.7.0_09/src.zip!/java/io/StringBufferInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="29" selection-start="952" selection-end="975" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/Handler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="466" selection-end="466" vertical-scroll-proportion="0.53150684">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/DefaultDispatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="43" selection-start="1159" selection-end="1159" vertical-scroll-proportion="0.052054796">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/JBalanceRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="30" selection-start="790" selection-end="790" vertical-scroll-proportion="0.37534246">
-          <folding />
-        </state>
+        <state line="27" column="0" selection-start="466" selection-end="466" vertical-scroll-proportion="0.53150684" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="160" column="58" selection-start="6458" selection-end="6458" vertical-scroll-proportion="1.1286863">
-          <folding />
-        </state>
+        <state line="160" column="58" selection-start="6458" selection-end="6458" vertical-scroll-proportion="1.1286863" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/github/jbalance/StreamPipeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="23" selection-start="332" selection-end="332" vertical-scroll-proportion="0.6398964">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="13" column="23" selection-start="332" selection-end="332" vertical-scroll-proportion="0.6398964" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/tools/dev/lang/java/jdk1.7.0_09/src.zip!/java/net/ServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="483" column="18" selection-start="18462" selection-end="18462" vertical-scroll-proportion="15.824657" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/StreamPipe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="66" selection-start="1295" selection-end="1295" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/DefaultDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="75" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/Listener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="15" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/AcceptPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="34" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/DefaultListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="86" selection-start="1983" selection-end="1983" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/PortRedirectHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="35" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/JBalanceRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="53" selection-start="832" selection-end="832" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/jbalance.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/tools/dev/lang/java/jdk1.7.0_09/src.zip!/java/net/InetAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="240" column="42" selection-start="8350" selection-end="8350" vertical-scroll-proportion="0.6684303">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/tools/dev/lang/java/jdk1.7.0_09/src.zip!/java/net/InetSocketAddress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="13" selection-start="1025" selection-end="1025" vertical-scroll-proportion="-2.4740932">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/PortRedirectHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="35" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/StreamPipe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="66" selection-start="1295" selection-end="1295" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/jbalance.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0">
+        <state line="214" column="23" selection-start="6836" selection-end="6836" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#0#10624#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/JBalanceMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="51" selection-start="5398" selection-end="5398" vertical-scroll-proportion="4.57772">
+        <state line="7" column="25" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/github/jbalance/jbalance.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="71" selection-start="744" selection-end="744" vertical-scroll-proportion="0.7037037">
           <folding />
         </state>
       </provider>

@@ -9,7 +9,7 @@ import java.net.Socket;
  */
 public interface Dispatcher {
 
-    void dispatch(AcceptInfo acceptInfo);
+    void dispatch(AcceptInfo acceptInfo, Listener listener);
 
     RequestInfo collectInfo(AcceptInfo acceptInfo) throws IOException;
 

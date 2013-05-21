@@ -54,7 +54,7 @@ public class DefaultListener implements Listener {
                 while(true){
                     try {
                         Socket socket = serverSocket.accept();
-                        response.doReponse(new AcceptInfo(socket, addr));
+                        response.doReponse(new AcceptInfo(socket, addr), DefaultListener.this);
                     } catch (IOException e) {
                         logger.error("accept socket error", e);
                     }

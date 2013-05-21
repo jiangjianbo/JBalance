@@ -25,8 +25,8 @@ public class JBalanceRunner {
 
     public void run() {
         listener.listen(ports, new Listener.ListenerResponse(){
-            public void doReponse(AcceptInfo request){
-                dispatcher.dispatch(request);
+            public void doReponse(AcceptInfo request, Listener listener){
+                dispatcher.dispatch(request, listener);
             }
         });
     }
